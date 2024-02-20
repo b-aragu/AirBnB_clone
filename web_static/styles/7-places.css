@@ -1,0 +1,23 @@
+\
+.places h1{
+    font-size: 30px;
+    top: 0;
+    left: 0;
+}
+
+.places .article{
+    display: inline-block;
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+}
+.places .article:hover{
+    border: 2px solid #F09597;
+}
+.places h2{
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+}
