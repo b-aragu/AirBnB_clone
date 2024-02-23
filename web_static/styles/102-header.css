@@ -1,0 +1,19 @@
+header {
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    line-height: 70px;
+    border-bottom: 1px #CCCCCC;
+}
+header img {
+    position: absolute;
+    left: 20px;
+}
+@media (max-width: 768px) {
+    header img {
+        position: static;
+        margin: 0 auto;
+        display: block;
+    }
+}
